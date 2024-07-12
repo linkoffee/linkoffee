@@ -27,7 +27,13 @@ jobs:
     - name: Update README
       run: python update_readme.py
 
+    - name: Display README changes
+      run: |
+        echo "Checking if files were modified"
+        git diff README.md README_AR.md README_CN.md README_EN.md README_ES.md README_UA.md
+
     - name: Commit changes
+      if: success() && steps.update-readme.outputs.changes == 'true'
       env:
         GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       run: |
