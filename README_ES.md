@@ -8,7 +8,7 @@ Mi nombre es Mikhail. Hago desarrollo web backend en Python y creo juegos en GDS
 - <img src="https://i.imgur.com/r8qzwhR.png" width="17" /> Creo juegos usando `GDScript4`.
 - <img src="https://i.imgur.com/Z9qEr2r.png" width="17" /> Estoy constantemente aprendiendo y mejorando mis habilidades.
 
-He estado desarrollando web y creando juegos durante **{experience_days}** días.
+He estado desarrollando web y creando juegos durante **247** días.
 
 #### Contacta conmigo
 

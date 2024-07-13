@@ -4,11 +4,11 @@
 
 #### ْعَنِّي
 
-- <img src="https://i.imgur.com/biAglR4.png" width="17" /> أنا مطور الواجهة الخلفية في Python.
-- <img src="https://i.imgur.com/r8qzwhR.png" width="17" /> أقوم بإنشاء ألعاب باستخدام GDScript4.
+- <img src="https://i.imgur.com/biAglR4.png" width="17" /> أنا مطور الواجهة الخلفية في `Python`.
+- <img src="https://i.imgur.com/r8qzwhR.png" width="17" /> أقوم بإنشاء ألعاب باستخدام `GDScript4`.
 - <img src="https://i.imgur.com/Z9qEr2r.png" width="17" /> أنا أتعلم باستمرار وأحسن مهاراتي.
 
-لقد كنت أقوم بتطوير الويب وصنع الألعاب لمدة **{experience_days}** من الأيام.
+لقد كنت أقوم بتطوير الويب وصنع الألعاب لمدة **247** من الأيام.
 
 #### أين يمكنك الاتصال بي
 
