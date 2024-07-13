@@ -25,15 +25,18 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Update README
+      id: update_readme
       run: python update_readme.py
 
     - name: Display README changes
+      id: check_diff
       run: |
         echo "Checking if files were modified"
-        git diff README.md README_AR.md README_CN.md README_EN.md README_ES.md README_UA.md
+        git diff --exit-code README.md README_AR.md README_CN.md README_EN.md README_ES.md README_UA.md
+      continue-on-error: true
 
     - name: Commit changes
-      if: success() && steps.update-readme.outputs.changes == 'true'
+      if: success() && steps.check_diff.outcome == 'failure'
       env:
         GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       run: |
