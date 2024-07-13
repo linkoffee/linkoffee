@@ -46,9 +46,6 @@ jobs:
           echo "changes=true" >> $GITHUB_ENV
         fi
 
-    - name: Show changes
-      run: echo "Changes: ${{ env.changes }}"
-
     - name: Push changes
       if: ${{ env.changes == 'true' }}
       env:
