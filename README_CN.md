@@ -8,7 +8,7 @@
 - <img src="https://i.imgur.com/r8qzwhR.png" width="17" /> 我使用`GDScript4`创建游戏。
 - <img src="https://i.imgur.com/Z9qEr2r.png" width="17" /> 我不断学习并提高我的技能。
 
-我从事网络开发和制作游戏已有 **247** 天了。
+我从事网络开发和制作游戏已有 **248** 天了。
 
 #### 与我联系
 
