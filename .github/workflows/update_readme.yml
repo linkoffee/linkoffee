@@ -41,10 +41,11 @@ jobs:
         git commit -m "Update exp days in readme file" || echo "No changes to commit"
 
     - name: Check for changes
-      run: echo "Changes: ${{ steps.commit-changes.outputs.changes }}"
+      run: |
+        echo "::set-output name=changes::$(git diff --name-only)"
 
     - name: Push changes
-      if: success() && steps.commit-changes.outputs.changes != 'No changes to commit'
+      if: success() && steps.commit-changes.outputs.changes != ''
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: git push origin main
