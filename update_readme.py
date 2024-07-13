@@ -1,21 +1,38 @@
 import datetime
+import os
 
-start_date = datetime.datetime(2023, 11, 8)
-current_date = datetime.datetime.now()
-experience_days = (current_date - start_date).days
+# Date of start my dev-career
+START_DATE = datetime.datetime(2023, 11, 8)
 
-files_to_update = [
-    "README.md", "README_EN.md", "README_AR.md",
-    "README_CN.md", "README_ES.md", "README_UA.md"
+# Current date
+CURRENT_DATE = datetime.datetime.now()
+
+# My experience in days
+EXPERIENCE_DAYS = (CURRENT_DATE - START_DATE).days
+
+# Directory with template files for update
+TEMPLATES_DIR = 'templates'
+
+# Files to be overwritten
+OUTPUT_FILES = [
+    'README.md', 'README_EN.md', 'README_AR.md',
+    'README_CN.md', 'README_ES.md', 'README_UA.md'
 ]
 
-for file_name in files_to_update:
-    with open(file_name, "r", encoding="utf-8") as file:
+# Template files for updating
+TEMPLATE_FILES = [
+    'README_template.md', 'README_EN_template.md', 'README_AR_template.md',
+    'README_CN_template.md', 'README_ES_template.md', 'README_UA_template.md'
+]
+
+for template_file, output_file in zip(TEMPLATE_FILES, OUTPUT_FILES):
+    template_path = os.path.join(TEMPLATES_DIR, template_file)
+    with open(template_path, 'r', encoding='utf-8') as file:
         content = file.read()
 
     updated_content = content.replace(
-        "{experience_days}", str(experience_days)
+        '{EXPERIENCE_DAYS}', str(EXPERIENCE_DAYS)
     )
 
-    with open(file_name, "w", encoding="utf-8") as file:
+    with open(output_file, 'w', encoding='utf-8') as file:
         file.write(updated_content)

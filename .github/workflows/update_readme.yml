@@ -27,12 +27,19 @@ jobs:
     - name: Update README
       run: python update_readme.py
 
+    - name: Display README changes
+      run: |
+        echo "Checking if files were modified"
+        git diff README.md README_AR.md README_CN.md README_EN.md README_ES.md README_UA.md
+
     - name: Commit changes
+      if: success() && steps.update-readme.outputs.changes == 'true'
       env:
         GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        git commit -m "Update README"
+        git add README.md README_AR.md README_CN.md README_EN.md README_ES.md README_UA.md
+        git commit -m "Update exp days in readme file"
+        git pull --rebase origin main
         git push
