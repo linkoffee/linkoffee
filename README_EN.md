@@ -27,7 +27,7 @@ My name is Mikhail. I do backend web development in Python and create games in G
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" alt="SQLite3" title="SQLite3"/>
 </div>
 
-### I've been doing web development and game creation for **249** days now.
+I've been doing web development and game creation for **249** days now.
 
 #### Contact me
 
