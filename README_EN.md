@@ -8,7 +8,7 @@ My name is Mikhail. I do backend web development in Python and create games in G
 - <img src="https://i.imgur.com/r8qzwhR.png" width="17" /> I create games using `GDScript4`.
 - <img src="https://i.imgur.com/Z9qEr2r.png" width="17" /> I am constantly learning and improving my skills.
 
-I've been doing web development and game creation for **248** days now.
+I've been doing web development and game creation for **249** days now.
 
 #### Contact me
 
