@@ -4,15 +4,9 @@
 >
 > <p align="right">— Франсуа́-Мари́ Аруэ́</p>
 
-### Вітання! <img src="https://i.imgur.com/ht1cLtJ.gif" width="70"/>
+### Вітання! <img src="https://i.imgur.com/ht1cLtJ.gif" width="50"/>
 
-Мене звати Михаил. Я займаюся бекендом веб-розробкою на Python і створенням ігор на GDScript.
-
-#### Про мене
-
-- <img src="https://i.imgur.com/biAglR4.png" width="17" /> Я бекенд розробник на `Python`.
-- <img src="https://i.imgur.com/r8qzwhR.png" width="17" /> Я створюю ігри, використовуючи `GDScript4`.
-- <img src="https://i.imgur.com/Z9qEr2r.png" width="17" /> Я постійно навчаюсь і вдосконалюю свої навички.
+Мене звати Михаил. Я займаюся бекендом веб-розробкою на `Python` і створенням ігор на `GDScript`.
 
 #### Я використовую:
 
@@ -33,13 +27,15 @@
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" alt="SQLite3" title="SQLite3"/>
 </div>
 
-### Я займаюся веб-розробкою та створенням ігор вже **{EXPERIENCE_DAYS}** днів.
+#### Я займаюся веб-розробкою та створенням ігор вже ***{EXPERIENCE_DAYS}*** днів.
 
 #### Зв'язок зі мною
 
-- <img src="https://i.imgur.com/yiInjvC.png" width="17" /> Email: rokcrokcet@gmail.com
-- <img src="https://i.imgur.com/5xmWiID.png" width="17" /> Telegram: https://t.me/linkoffee
-- <img src="https://i.imgur.com/mCB76Y7.png" width="17" /> Habr: https://career.habr.com/linkoffee
+  [![Gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGBDCZJXJjtMPgkglZzNSxMpvfFCQqrrkssFrkSlJhQsfsJZQXnBnCGVTwVKgfkZXlq)
+  [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/linkoffee)
+  [![Habr Career](https://img.shields.io/badge/Habr%20career-black?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/linkoffee)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=8B0000&line=8B0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Змінити мову
 [🇷🇺](README.md) [🇬🇧](README_EN.md) [🇦🇪](README_AR.md) [🇨🇳](README_CN.md) [🇪🇸](README_ES.md)

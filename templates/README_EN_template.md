@@ -1,12 +1,6 @@
-### Hi there! <img src="https://i.imgur.com/ht1cLtJ.gif" width="70"/>
+### Hi there! <img src="https://i.imgur.com/ht1cLtJ.gif" width="50"/>
 
-My name is Mikhail. I do backend web development in Python and create games in GDScript.
-
-#### About me
-
-- <img src="https://i.imgur.com/biAglR4.png" width="17" /> I'm a backend developer in `Python`.
-- <img src="https://i.imgur.com/r8qzwhR.png" width="17" /> I create games using `GDScript4`.
-- <img src="https://i.imgur.com/Z9qEr2r.png" width="17" /> I am constantly learning and improving my skills.
+My name is Mikhail. I do backend web development in `Python` and create games in `GDScript`.
 
 #### I use:
 
@@ -27,13 +21,15 @@ My name is Mikhail. I do backend web development in Python and create games in G
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" alt="SQLite3" title="SQLite3"/>
 </div>
 
-### I've been doing web development and game creation for **{EXPERIENCE_DAYS}** days now.
+#### I've been doing web development and game creation for ***{EXPERIENCE_DAYS}*** days now.
 
 #### Contact me
 
-- <img src="https://i.imgur.com/yiInjvC.png" width="17" /> Email: rokcrokcet@gmail.com
-- <img src="https://i.imgur.com/5xmWiID.png" width="17" /> Telegram: https://t.me/linkoffee
-- <img src="https://i.imgur.com/mCB76Y7.png" width="17" /> Habr: https://career.habr.com/linkoffee
+  [![Gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGBDCZJXJjtMPgkglZzNSxMpvfFCQqrrkssFrkSlJhQsfsJZQXnBnCGVTwVKgfkZXlq)
+  [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/linkoffee)
+  [![Habr Career](https://img.shields.io/badge/Habr%20career-black?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/linkoffee)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=8B0000&line=8B0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Change the language
 [🇷🇺](README.md) [🇦🇪](README_AR.md) [🇨🇳](README_CN.md) [🇪🇸](README_ES.md) [🇺🇦](README_UA.md)
