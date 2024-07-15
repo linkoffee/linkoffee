@@ -27,7 +27,7 @@ Mi nombre es Mikhail. Hago desarrollo web backend en Python y creo juegos en GDS
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" alt="SQLite3" title="SQLite3"/>
 </div>
 
-### He estado desarrollando web y creando juegos durante **249** días.
+### He estado desarrollando web y creando juegos durante **250** días.
 
 #### Contacta conmigo
 
