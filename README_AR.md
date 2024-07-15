@@ -1,12 +1,6 @@
-### مرحباً! <img src="https://i.imgur.com/ht1cLtJ.gif" width="70"/>
+### مرحباً! <img src="https://i.imgur.com/ht1cLtJ.gif" width="50"/>
 
-اسمي ميخائيل. أقوم بتطوير الويب الخلفي في Python وأقوم بإنشاء ألعاب في GDScript.
-
-#### ْعَنِّي
-
-- <img src="https://i.imgur.com/biAglR4.png" width="17" /> أنا مطور الواجهة الخلفية في Python.
-- <img src="https://i.imgur.com/r8qzwhR.png" width="17" /> أقوم بإنشاء ألعاب باستخدام GDScript4.
-- <img src="https://i.imgur.com/Z9qEr2r.png" width="17" /> أنا أتعلم باستمرار وأحسن مهاراتي.
+اسمي ميخائيل. أقوم بتطوير الويب الخلفي في `Python` وأقوم بإنشاء ألعاب في `GDScript`.
 
 #### أنا أستعمل:
 
@@ -27,13 +21,15 @@
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" alt="SQLite3" title="SQLite3"/>
 </div>
 
-### لقد كنت أقوم بتطوير الويب وصنع الألعاب لمدة **250** من الأيام.
+#### لقد كنت أقوم بتطوير الويب وصنع الألعاب لمدة ***250*** من الأيام.
 
 #### أين يمكنك الاتصال بي
 
-- <img src="https://i.imgur.com/yiInjvC.png" width="17" /> بريد إلكتروني: rokcrokcet@gmail.com
-- <img src="https://i.imgur.com/5xmWiID.png" width="17" /> Telegram: https://t.me/linkoffee
-- <img src="https://i.imgur.com/mCB76Y7.png" width="17" /> Habr: https://career.habr.com/linkoffee
+  [![Gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGBDCZJXJjtMPgkglZzNSxMpvfFCQqrrkssFrkSlJhQsfsJZQXnBnCGVTwVKgfkZXlq)
+  [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/linkoffee)
+  [![Habr Career](https://img.shields.io/badge/Habr%20career-black?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/linkoffee)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=8B0000&line=8B0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### تغيير اللغة
 [🇷🇺](README.md) [🇬🇧](README_EN.md) [🇨🇳](README_CN.md) [🇪🇸](README_ES.md) [🇺🇦](README_UA.md)
