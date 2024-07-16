@@ -31,7 +31,7 @@ Mi nombre es Mikhail. Hago desarrollo web backend en `Python` y creo juegos en `
   [![Steam](https://img.shields.io/badge/steam-%23062054?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/flyrane_russia/)
   [![Habr Career](https://img.shields.io/badge/Habr%20career-black?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/linkoffee)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=8B0000&line=8B0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=FFFFFF&line=FFFFFF&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 #### Cambia el idioma
 [🇷🇺](README.md) [🇬🇧](README_EN.md) [🇦🇪](README_AR.md) [🇨🇳](README_CN.md) [🇺🇦](README_UA.md)
