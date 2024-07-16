@@ -27,6 +27,8 @@ Mi nombre es Mikhail. Hago desarrollo web backend en `Python` y creo juegos en `
 
   [![Gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGBDCZJXJjtMPgkglZzNSxMpvfFCQqrrkssFrkSlJhQsfsJZQXnBnCGVTwVKgfkZXlq)
   [![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/linkoffee)
+  [![Discord](https://img.shields.io/badge/discord-%235869eb?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/774180553548496928/)
+  [![Steam](https://img.shields.io/badge/steam-%23062054?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/flyrane_russia/)
   [![Habr Career](https://img.shields.io/badge/Habr%20career-black?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/linkoffee)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=8B0000&line=8B0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
