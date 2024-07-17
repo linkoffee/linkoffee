@@ -33,5 +33,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=FFFFFF&line=FFFFFF&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### Поменять язык
-[🇬🇧](README_EN.md) [🇦🇪](README_AR.md) [🇨🇳](README_CN.md) [🇪🇸](README_ES.md) [🇺🇦](README_UA.md)
+#### Читать на других языках:
+[🇬🇧](https://linkoffee.github.io/linkoffee/README_EN.html) [🇦🇪](https://linkoffee.github.io/linkoffee/README_AR.html) [🇨🇳](https://linkoffee.github.io/linkoffee/README_CN.html) [🇪🇸](https://linkoffee.github.io/linkoffee/README_ES.html) [🇺🇦](https://linkoffee.github.io/linkoffee/README_UA.html)
