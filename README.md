@@ -21,7 +21,7 @@
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" alt="SQLite3" title="SQLite3"/>
 </div>
 
-#### Я занимаюсь веб-разработкой и созданием игр уже ***255*** {DAY_WORD_FORM_RU}.
+#### Я занимаюсь веб-разработкой и созданием игр уже ***255*** дней.
 
 #### Связаться со мной
 
