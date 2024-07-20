@@ -35,11 +35,15 @@ TEMPLATE_FILES = [
 
 def get_day_word_form_ru(days_value):
     """Gets the required form of a word from the dictionary."""
-    last_digit = int(str(days_value)[-1])
+    last_digit = days_value % 10
+    last_two_digits = days_value % 100
+
+    if 11 <= last_two_digits <= 14:
+        return 'дней'
     for key, value in DAY_WORD_FORM_RU.items():
         if last_digit in key:
             return value
-    return ''
+    return 'дней'
 
 
 for template_file, output_file in zip(TEMPLATE_FILES, OUTPUT_FILES):
@@ -52,12 +56,10 @@ for template_file, output_file in zip(TEMPLATE_FILES, OUTPUT_FILES):
     )
 
     if '{DAY_WORD_FORM_RU}' in content:
-        last_digit_in_days = int(str(EXPERIENCE_DAYS)[-1])
-        if last_digit_in_days in DAY_WORD_FORM_RU.keys():
-            day_word_form = get_day_word_form_ru(last_digit_in_days)
-            updated_content = updated_content.replace(
-                '{DAY_WORD_FORM_RU}', day_word_form
-            )
+        day_word_form = get_day_word_form_ru(EXPERIENCE_DAYS)
+        updated_content = updated_content.replace(
+            '{DAY_WORD_FORM_RU}', day_word_form
+        )
 
     with open(output_file, 'w', encoding='utf-8') as file:
         file.write(updated_content)
