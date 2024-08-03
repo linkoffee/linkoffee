@@ -5,9 +5,9 @@ My name is Mikhail. I do backend web development in `Python` and create games in
 #### I use:
 
 <div class="image-row">
-  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" alt="Python" title="Python"/>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" width="40" alt="Django" title="Django"/>
-  <img src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png" width="40" alt="Godot" title="Godot"/>
+  <img src="https://camo.githubusercontent.com/52ec9548f75773e7841dd77f89a654e8a0bc2cce02da2eb43f84240f50351512/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="40" alt="Python" title="Python"/>
+  <img src="https://camo.githubusercontent.com/b24750380ccf58b0c7d79c7875d7300b2b99a49061c7e4199ac077c4713f7156/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" width="40" alt="Django" title="Django"/>
+  <img src="https://habrastorage.org/webt/ry/72/lx/ry72lxdqz5oiw9i0qsobi2wlks4.gif" width="50" alt="Godot" title="Godot"/>
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" alt="HTML5" title="HTML5"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" alt="CSS3" title="CSS3"/>
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928" width="40" alt="Pygame" title="Pygame"/>
@@ -19,9 +19,11 @@ My name is Mikhail. I do backend web development in `Python` and create games in
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40" alt="Postman" title="Postman"/>
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40" alt="Swagger" title="Swagger"/>
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" alt="SQLite3" title="SQLite3"/>
+  <img src="https://camo.githubusercontent.com/a6ed903c5b1c0e78386c1444bf950d30bfd65c4da93861f0addf865f3079ac07/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6e67696e782d69636f6e2e737667" width="40" alt="Nginx" title="Nginx"/>
+  <img src="https://camo.githubusercontent.com/2d821f427e22599bab98d58d10af94518c146882fb0037e742f69354aacacb6c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" width="40" alt="Docker" title="Docker"/>
 </div>
 
-#### I've been doing web development and game creation for ***263*** days now.
+#### I've been doing web development and game creation for ***269*** days now.
 
 #### Contact me
 
