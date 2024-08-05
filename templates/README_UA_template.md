@@ -14,6 +14,7 @@
   <img src="https://camo.githubusercontent.com/52ec9548f75773e7841dd77f89a654e8a0bc2cce02da2eb43f84240f50351512/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="40" alt="Python" title="Python"/>
   <img src="https://camo.githubusercontent.com/b24750380ccf58b0c7d79c7875d7300b2b99a49061c7e4199ac077c4713f7156/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646a616e676f2d69636f6e2e737667" width="40" alt="Django" title="Django"/>
   <img src="https://habrastorage.org/webt/ry/72/lx/ry72lxdqz5oiw9i0qsobi2wlks4.gif" width="50" alt="Godot" title="Godot"/>
+  <img src="https://habrastorage.org/webt/vw/wl/yh/vwwlyhl18xp3yt34bgozvsmwe5c.png" width="60" alt="Go" title="Go"/>
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" alt="HTML5" title="HTML5"/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" alt="CSS3" title="CSS3"/>
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" width="40" alt="Pytest" title="Pytest"/>
