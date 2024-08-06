@@ -25,6 +25,9 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+      - name: Copy README files to templates
+        run: |
+          cp README.md templates/README_template.md
       - name: Commit and Push
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
