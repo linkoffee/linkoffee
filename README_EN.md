@@ -35,7 +35,13 @@ My name is Mikhail. I do backend web development in `Python` and create games in
   [![Steam](https://img.shields.io/badge/steam-%23062054?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/flyrane_russia/)
   [![Habr Career](https://img.shields.io/badge/Habr%20career-black?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/linkoffee)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=FFFFFF&line=FFFFFF&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=FFB74D&line=FFA726&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div class="image-row">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linkoffee&theme=great_gatsby" width="33%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=linkoffee&theme=great_gatsby" width="33%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linkoffee&theme=great_gatsby&utcOffset=5" width="33%"/>
+</div>
 
 #### Change the language
 [🇷🇺](README.md) [🇦🇪](README_AR.md) [🇨🇳](README_CN.md) [🇪🇸](README_ES.md) [🇺🇦](README_UA.md)
