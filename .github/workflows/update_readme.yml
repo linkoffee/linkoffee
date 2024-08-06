@@ -37,6 +37,7 @@ jobs:
           
   update-readme:
     runs-on: ubuntu-latest
+    needs: generate-github-cards
 
     steps:
     - name: Checkout repository
