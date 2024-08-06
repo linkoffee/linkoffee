@@ -24,7 +24,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
         env:
-          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
           
   update-readme:
     runs-on: ubuntu-latest
