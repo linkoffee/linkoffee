@@ -25,7 +25,7 @@
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" width="40" alt="Bash" title="Bash"/>
 </div>
 
-#### Я занимаюсь веб-разработкой и созданием игр уже ***272*** дня.
+#### Я занимаюсь веб-разработкой и созданием игр уже ***{EXPERIENCE_DAYS}*** {DAY_WORD_FORM_RU}.
 
 #### Связаться со мной
 
