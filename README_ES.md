@@ -25,7 +25,7 @@ Mi nombre es Mikhail. Hago desarrollo web backend en `Python` y creo juegos en `
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" width="40" alt="Bash" title="Bash"/>
 </div>
 
-#### He estado desarrollando web y creando juegos durante ***272*** días.
+#### He estado desarrollando web y creando juegos durante ***274*** días.
 
 #### Contacta conmigo
 
@@ -38,9 +38,9 @@ Mi nombre es Mikhail. Hago desarrollo web backend en `Python` y creo juegos en `
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=FFB74D&line=FFA726&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div class="image-row">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linkoffee&theme=great_gatsby" width="33%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=linkoffee&theme=great_gatsby" width="33%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=linkoffee&theme=great_gatsby&utcOffset=5" width="33%"/>
+  <img src="https://raw.githubusercontent.com/linkoffee/linkoffee/main/profile-summary-card-output/great_gatsby/1-repos-per-language.svg" width="33%"/>
+  <img src="https://raw.githubusercontent.com/linkoffee/linkoffee/main/profile-summary-card-output/great_gatsby/3-stats.svg" width="33%"/>
+  <img src="https://raw.githubusercontent.com/linkoffee/linkoffee/main/profile-summary-card-output/great_gatsby/4-productive-time.svg" width="33%"/>
 </div>
 
 #### Cambia el idioma
