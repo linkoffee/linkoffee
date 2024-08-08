@@ -24,7 +24,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 5
-          EXCLUDE: "javascript"
+          EXCLUDE: "JavaScript"
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
           
