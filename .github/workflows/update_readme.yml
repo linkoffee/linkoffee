@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '30 19 * * *'
   push:
     branches:
       - main
@@ -36,6 +36,9 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
+    - name: Pull latest changes
+      run: git pull origin main  
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -63,13 +66,5 @@ jobs:
           echo "changes=false" >> $GITHUB_ENV
         else
           git commit -m "Update exp days in readme file"
-          echo "changes=true" >> $GITHUB_ENV
+          git push https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}.git main
         fi
-
-    - name: Push changes
-      if: ${{ env.changes == 'true' }}
-      env:
-        PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-      run: |
-        git pull --rebase  
-        git push https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}.git main
