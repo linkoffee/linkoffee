@@ -10,15 +10,15 @@ on:
 
 jobs:
 
-  generate-github-cards:
-    name: Generate GitHub Cards
+  build:
+    name: generate-github-profile-summary-cards
     runs-on: ubuntu-latest
     permissions:
       contents: write
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Update GitHub Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
@@ -30,6 +30,7 @@ jobs:
           
   update-readme:
     runs-on: ubuntu-latest
+    needs: build
 
     steps:
     - name: Checkout repository
