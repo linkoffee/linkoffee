@@ -65,6 +65,10 @@ jobs:
           git commit -m "Update exp days in readme file"
           echo "changes=true" >> $GITHUB_ENV
         fi
+    
+    - name: Pull latest changes
+      if: ${{ env.changes == 'true' }}
+      run: git pull --rebase
 
     - name: Push changes
       if: ${{ env.changes == 'true' }}
