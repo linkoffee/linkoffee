@@ -35,12 +35,12 @@
   [![Steam](https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&logoColor=FFA726)](https://steamcommunity.com/id/flyrane_russia/)
   [![Habr Career](https://img.shields.io/badge/habr%20career-black?style=for-the-badge&logo=Habr&logoColor=FFA726)](https://career.habr.com/linkoffee)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=high-contrast&grid=false&radius=16&hide_border=true&area=true&area_color=FFB74D&line=FFA726&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=github-compact&grid=false&radius=16&area=true&area_color=0366D6&line=0366D6&point=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div class="image-row">
-  <img src="https://raw.githubusercontent.com/linkoffee/linkoffee/main/profile-summary-card-output/great_gatsby/1-repos-per-language.svg" width="33%"/>
-  <img src="https://raw.githubusercontent.com/linkoffee/linkoffee/main/profile-summary-card-output/great_gatsby/3-stats.svg" width="33%"/>
-  <img src="https://raw.githubusercontent.com/linkoffee/linkoffee/main/profile-summary-card-output/great_gatsby/4-productive-time.svg" width="33%"/>
+  <img src="https://raw.githubusercontent.com/linkoffee/linkoffee/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="33%"/>
+  <img src="https://raw.githubusercontent.com/linkoffee/linkoffee/main/profile-summary-card-output/github_dark/3-stats.svg" width="33%"/>
+  <img src="https://raw.githubusercontent.com/linkoffee/linkoffee/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="33%"/>
 </div>
 
 #### تغيير اللغة
