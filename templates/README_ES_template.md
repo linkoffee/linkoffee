@@ -29,11 +29,12 @@ Mi nombre es Mikhail. Hago desarrollo web backend en `Python` y creo juegos en `
 
 #### Contacta conmigo
 
-  [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=FFA726)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGBDCZJXJjtMPgkglZzNSxMpvfFCQqrrkssFrkSlJhQsfsJZQXnBnCGVTwVKgfkZXlq)
-  [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=Telegram&logoColor=FFA726)](https://t.me/linkoffee)
-  [![Discord](https://img.shields.io/badge/DISCORD-black?style=for-the-badge&logo=Discord&logoColor=FFA726)](https://discordapp.com/users/774180553548496928/)
-  [![Steam](https://img.shields.io/badge/steam-black?style=for-the-badge&logo=steam&logoColor=FFA726)](https://steamcommunity.com/id/flyrane_russia/)
-  [![Habr Career](https://img.shields.io/badge/habr%20career-black?style=for-the-badge&logo=Habr&logoColor=FFA726)](https://career.habr.com/linkoffee)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGBDCZJXJjtMPgkglZzNSxMpvfFCQqrrkssFrkSlJhQsfsJZQXnBnCGVTwVKgfkZXlq)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/linkoffee)
+  [![Discord](https://img.shields.io/badge/DISCORD-5865f2?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/774180553548496928/)
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/flyrane_russia/)
+  [![Habr Career](https://img.shields.io/badge/habr%20career-629fbc?style=for-the-badge&logo=Habr&logoColor=white)](https://career.habr.com/linkoffee)
+  [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-1c62eb?style=for-the-badge&logo=Docker&logoColor=white)](https://hub.docker.com/u/linkoffee)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=github-compact&title_color=0366D6&color=0366D6&grid=false&radius=16&area=true&hide_border=true&area_color=0366D6&line=0366D6&point=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
