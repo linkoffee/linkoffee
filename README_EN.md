@@ -25,7 +25,7 @@ My name is Mikhail. I do backend web development in `Python` and create games in
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" width="40" alt="Bash" title="Bash"/>
 </div>
 
-#### I've been doing web development and game creation for ***304*** days now.
+#### I've been doing web development and game creation for ***305*** days now.
 
 #### Contact me
 
