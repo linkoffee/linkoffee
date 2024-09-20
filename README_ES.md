@@ -6,23 +6,20 @@ Mi nombre es Mikhail. Hago desarrollo web backend en `Python` y creo juegos en `
 
 <div class="image-row">
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="40" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/?size=100&id=hs3gwiXlyJ01&format=png&color=117E32" width="40" alt="Django" title="Django"/>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" width="40" alt="Django" title="Django"/>
   <img src="https://icon.icepanel.io/Technology/svg/Godot-Engine.svg" width="40" alt="Godot" title="Godot"/>
   <img src="https://habrastorage.org/webt/vw/wl/yh/vwwlyhl18xp3yt34bgozvsmwe5c.png" width="70" alt="Go" title="Go"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" alt="HTML5" title="HTML5"/>
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" alt="CSS3" title="CSS3"/>
+  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" alt="HTML5" title="HTML5"/>
+  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="40" alt="CSS3" title="CSS3"/>
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" width="40" alt="Pytest" title="Pytest"/>
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" alt="Git" title="Git"/>
-  <img src="https://cdn3.iconfinder.com/data/icons/social-media-pack-12/512/Notion-512.png" width="40" alt="Notion" title="Notion"/>
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="40" alt="Visual Studio Code" title="Visual Studio Code"/>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40" alt="Postman" title="Postman"/>
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40" alt="Swagger" title="Swagger"/>
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" alt="SQLite3" title="SQLite3"/>
   <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="40" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" width="40" alt="Nginx" title="Nginx"/>
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="40" alt="Docker" title="Docker"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" width="40" alt="Ubuntu" title="Ubuntu"/>
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" width="40" alt="Bash" title="Bash"/>
 </div>
 
 #### He estado desarrollando web y creando juegos durante ***317*** días.
