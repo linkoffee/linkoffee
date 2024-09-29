@@ -22,7 +22,7 @@ Mi nombre es Mikhail. Hago desarrollo web backend en `Python` y creo juegos en `
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="40" alt="Docker" title="Docker"/>
 </div>
 
-#### He estado desarrollando web y creando juegos durante ***325*** días.
+#### He estado desarrollando web y creando juegos durante ***326*** días.
 
 #### Contacta conmigo
 
