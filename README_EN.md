@@ -22,8 +22,6 @@ My name is Mikhail. I do backend web development in `Python` and create games in
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="40" alt="Docker" title="Docker"/>
 </div>
 
-#### I've been doing web development and game creation for ***334*** days now.
-
 #### Contact me
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGBDCZJXJjtMPgkglZzNSxMpvfFCQqrrkssFrkSlJhQsfsJZQXnBnCGVTwVKgfkZXlq)
