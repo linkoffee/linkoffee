@@ -26,8 +26,6 @@ My name is Mikhail. I do backend web development in `Python` and create games in
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGBDCZJXJjtMPgkglZzNSxMpvfFCQqrrkssFrkSlJhQsfsJZQXnBnCGVTwVKgfkZXlq)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/linkoffee)
-  [![Discord](https://img.shields.io/badge/DISCORD-5865f2?style=for-the-badge&logo=Discord&logoColor=white)](https://discordapp.com/users/774180553548496928/)
-  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/flyrane_russia/)
   [![Habr Career](https://img.shields.io/badge/habr%20career-629fbc?style=for-the-badge&logo=Habr&logoColor=white)](https://career.habr.com/linkoffee)
   [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-1c62eb?style=for-the-badge&logo=Docker&logoColor=white)](https://hub.docker.com/u/linkoffee)
 
