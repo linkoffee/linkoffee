@@ -28,6 +28,7 @@ My name is Mikhail. I do backend web development in `Python` and create games in
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/linkoffee)
   [![Habr Career](https://img.shields.io/badge/habr%20career-629fbc?style=for-the-badge&logo=Habr&logoColor=white)](https://career.habr.com/linkoffee)
   [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-1c62eb?style=for-the-badge&logo=Docker&logoColor=white)](https://hub.docker.com/u/linkoffee)
+  [![GitLab](https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/linkoffee)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=github-compact&title_color=0366D6&color=0366D6&grid=false&radius=16&area=true&hide_border=true&area_color=0366D6&line=0366D6&point=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
