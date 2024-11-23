@@ -7,6 +7,7 @@ My name is Mikhail. I do backend web development in `Python` and create games in
 <div class="image-row">
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="40" alt="Python" title="Python"/>
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django.png" width="40" alt="Django" title="Django"/>
+  <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="40" alt="FastAPI" title="FastAPI">
   <img src="https://icon.icepanel.io/Technology/svg/Godot-Engine.svg" width="40" alt="Godot" title="Godot"/>
   <img src="https://habrastorage.org/webt/vw/wl/yh/vwwlyhl18xp3yt34bgozvsmwe5c.png" width="70" alt="Go" title="Go"/>
   <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" alt="HTML5" title="HTML5"/>
@@ -15,7 +16,7 @@ My name is Mikhail. I do backend web development in `Python` and create games in
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" alt="Git" title="Git"/>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40" alt="Postman" title="Postman"/>
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" width="40" alt="Swagger" title="Swagger"/>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" width="40" alt="SQLite3" title="SQLite3"/>
+  <img src="https://habrastorage.org/webt/fc/ki/y1/fckiy1fd4ojsxcyvhdkmv3b84sk.png" width="100" alt="SQLAlchemy" title="SQLAlchemy"/>
   <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width="40" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000" width="40" alt="Nginx" title="Nginx"/>
