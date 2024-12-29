@@ -27,7 +27,6 @@ Mi nombre es Mikhail. Hago desarrollo web backend en `Python` y creo juegos en `
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGBDCZJXJjtMPgkglZzNSxMpvfFCQqrrkssFrkSlJhQsfsJZQXnBnCGVTwVKgfkZXlq)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/linkoffee)
   [![Habr Career](https://img.shields.io/badge/habr%20career-629fbc?style=for-the-badge&logo=Habr&logoColor=white)](https://career.habr.com/linkoffee)
-  [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-1c62eb?style=for-the-badge&logo=Docker&logoColor=white)](https://hub.docker.com/u/linkoffee)
   [![Stackoverflow](https://img.shields.io/badge/stackoverflow-lightyellow?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/26387641/mikhail-kopochinskiy)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linkoffee&theme=github-compact&title_color=0366D6&color=0366D6&grid=false&radius=16&area=true&hide_border=true&area_color=0366D6&line=0366D6&point=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
