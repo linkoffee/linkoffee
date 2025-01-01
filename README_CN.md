@@ -1,12 +1,13 @@
 ### 你好！ <img src="https://i.imgur.com/ht1cLtJ.gif" width="50"/>
 
-我叫米莎。我使用 `Python` 进行 Web 开发并使用 `GDScript` 创建游戏。
+我的名字是米哈伊尔。我用`Python`进行后端 Web 开发，并用`C#`、`GDScript`创建游戏。
 
 #### 我用:
 
 <div class="image-row">
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="40" alt="Python" title="Python"/>
   <img src="https://icon.icepanel.io/Technology/svg/Go.svg" width="40" alt="Go" title="Go"/>
+  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="40" alt="C#" title="C#"/>
   <img src="https://icon.icepanel.io/Technology/svg/Godot-Engine.svg" width="40" alt="Godot" title="Godot"/>
   <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" alt="HTML5" title="HTML5"/>
   <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="40" alt="CSS3" title="CSS3"/>
@@ -38,4 +39,4 @@
 </div>
 
 #### 改变语言
-[🇷🇺](README.md) [🇬🇧](README_EN.md) [🇦🇪](README_AR.md) [🇪🇸](README_ES.md) [🇺🇦](README_UA.md)
+[🇷🇺](README.md) [🇬🇧](README_EN.md) [🇪🇸](README_ES.md)

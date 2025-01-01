@@ -1,12 +1,13 @@
 ### Hi there! <img src="https://i.imgur.com/ht1cLtJ.gif" width="50"/>
 
-My name is Mikhail. I do backend web development in `Python` and create games in `GDScript`.
+My name is Mikhail. I do backend web development in `Python` and game development in `C#`, `GDScript`.
 
 #### I use:
 
 <div class="image-row">
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="40" alt="Python" title="Python"/>
   <img src="https://icon.icepanel.io/Technology/svg/Go.svg" width="40" alt="Go" title="Go"/>
+  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width="40" alt="C#" title="C#"/>
   <img src="https://icon.icepanel.io/Technology/svg/Godot-Engine.svg" width="40" alt="Godot" title="Godot"/>
   <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width="40" alt="HTML5" title="HTML5"/>
   <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width="40" alt="CSS3" title="CSS3"/>
@@ -38,4 +39,4 @@ My name is Mikhail. I do backend web development in `Python` and create games in
 </div>
 
 #### Change the language
-[🇷🇺](README.md) [🇦🇪](README_AR.md) [🇨🇳](README_CN.md) [🇪🇸](README_ES.md) [🇺🇦](README_UA.md)
+[🇷🇺](README.md) [🇨🇳](README_CN.md) [🇪🇸](README_ES.md)
