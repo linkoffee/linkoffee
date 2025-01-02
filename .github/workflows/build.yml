@@ -1,0 +1,28 @@
+name: Build
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+
+  build:
+    name: generate-github-profile-summary-cards
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Update GitHub Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 5
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
