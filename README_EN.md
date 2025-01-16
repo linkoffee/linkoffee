@@ -25,7 +25,7 @@ My name is Mikhail. I do backend web development in `Python` and game developmen
 
 #### Contact me
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=NZVHGBDCZJXJjtMPgkglZzNSxMpvfFCQqrrkssFrkSlJhQsfsJZQXnBnCGVTwVKgfkZXlq)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rokcrokcet@gmail.com?subject=Proposal%20for%20cooperation)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/linkoffee)
   [![Habr Career](https://img.shields.io/badge/habr%20career-629fbc?style=for-the-badge&logo=Habr&logoColor=white)](https://career.habr.com/linkoffee)
   [![Stackoverflow](https://img.shields.io/badge/stackoverflow-lightyellow?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/26387641/mikhail-kopochinskiy)
