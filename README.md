@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://habrastorage.org/webt/zy/9n/uq/zy9nuqd8dretegehlsrrn9butru.png" width="300px"/>
@@ -12,7 +12,7 @@ LanguagesCoding: Python, Go, C#, GDScript
 LanguagesSpoken: Russian, English
 
 ───────────────────Contact─────────────────
-Gmail: rokcrokcet@gmail.com
+Email: rokcrokcet@gmail.com
 Telegram: @linkoffee
 
 ────────────────GitHub Stats────────────────
