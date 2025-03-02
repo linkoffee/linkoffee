@@ -17,8 +17,8 @@ Telegram: @linkoffee
 
 ────────────────GitHub Stats────────────────
 Repositories: 8
-Commits: 497
-LinesOfCode: 574403
+Commits: 501
+LinesOfCode: 579092
 Stars: 3
 ```
   </tr>
