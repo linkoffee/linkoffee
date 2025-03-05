@@ -16,9 +16,9 @@ Email: rokcrokcet@gmail.com
 Telegram: @linkoffee
 
 ────────────────GitHub Stats────────────────
-Repositories: 8
-Commits: 501
-LinesOfCode: 579092
+Repositories: 7
+Commits: 464
+LinesOfCode: 561834
 Stars: 3
 ```
   </tr>
